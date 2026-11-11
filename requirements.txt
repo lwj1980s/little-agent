@@ -1,0 +1,13 @@
+
+langchain>=1.0
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
+mem0ai
+fastapi
+uvicorn[standard]
+python-dotenv
